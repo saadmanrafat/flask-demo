@@ -17,7 +17,6 @@ odfpy==1.4.0
 openpyxl==2.6.1
 python-engineio==3.4.3
 python-socketio==3.1.2
-PyYAML==3.13
 records==0.5.2
 requests==2.21.0
 six==1.12.0
